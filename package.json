@@ -1,26 +1,26 @@
 {
-  "name": "passport-github",
-  "version": "0.1.7",
-  "description": "GitHub authentication strategy for Passport.",
+  "name": "passport-phonegap-build",
+  "version": "0.0.1",
+  "description": "PhoneGap Build authentication strategy for Passport.",
   "keywords": [
     "passport",
-    "github",
+    "phonegap",
     "auth",
     "authn",
     "authentication",
     "identity"
   ],
   "author": {
-    "name": "Jared Hanson",
-    "email": "jaredhanson@gmail.com",
-    "url": "http://www.jaredhanson.net/"
+    "name": "Bobby Brennan",
+    "email": "bobby.brennan@gmail.com",
+    "url": "http://www.bbrennan.info/"
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/jaredhanson/passport-github.git"
+    "url": "http://github.com/bobby-brennan/passport-phonegap-build.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/passport-github/issues"
+    "url": "http://github.com/bobby-brennan/passport-phonegap-build/issues"
   },
   "licenses": [
     {
